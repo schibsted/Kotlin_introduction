@@ -3,7 +3,7 @@ Name: `Linus Ahlin-Hamberg`
 
 Email: `linus.ahlin-hamberg@schibsted.com` 
 
-Concat: by slack please ;) 
+Contact: by slack please ;) 
 
 
 
@@ -27,3 +27,6 @@ Null safe
 Static type system with elements of gradual and flow typing
 
 Object-oriented language which also has a lot of functional programming
+
+
+# Who am you ;) 

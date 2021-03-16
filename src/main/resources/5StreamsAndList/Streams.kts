@@ -3,7 +3,7 @@
 val strings = listOf("One", "another", "something")
 val stringsWhitExplicitType = listOf<String>("One", "another", "something")
 
-/**map to modify an list**/
+/**map to modify a list**/
 
 val upperCase = strings.map { it.toUpperCase() }
 val upperCase = strings.map { it -> it.toUpperCase() }//Same it is just default name
@@ -27,9 +27,9 @@ val cars = listOf(
 )
 val groupBy: Map<String, List<Car>> = cars.groupBy { it.brand }
 
-//God to know that it exist
+//Good to know that it exist
 strings.let { println(it) }
-//good for one line functions and other
+//good for one line functions and others
 
 
 //And a lot more of them

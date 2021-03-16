@@ -3,20 +3,20 @@
 fun main(){
     //the program
 }
-/** This is the mos usual way to start and to run an program
-not that it is not instead an class but outside**/
+/** This is the most usual way to start and to run an program
+note that it is not inside a class, but outside**/
 
-/** parameter if you want to input things likt runing it in the terminal **/
+/** parameter if you want to input things like running it in the terminal **/
 
 fun main(args:Array<String>){
     //The program
 }
 
-/**Similar to an Java program but whit kotlin syntax **/
+/**Similar to an Java program but with kotlin syntax **/
 
 println("hello world")
 
 /**To print**/
 
 /** Kotlin can also be run as an script version**/
-/**Then the whole file will be treed as the main function**/
+/**Then the whole file will be treated as the main function**/

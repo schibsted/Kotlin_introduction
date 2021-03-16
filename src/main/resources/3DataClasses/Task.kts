@@ -1,4 +1,4 @@
-//Create an class structure for an dictionary that for an minimal should contain dictionary, words and word language for each word
+//Create a class structure for a dictionary that, at a minimum, should contain dictionary, words and word language for each word
 
 //Solving ide further down
 

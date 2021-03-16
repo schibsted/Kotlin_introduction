@@ -14,7 +14,7 @@ val couldBeNull2: Int? = 2 //still works
 val nullValue: String? = "Something"
 
 val nonNullValue: String = nullValue //Wont work as it could be null
-val nonNullValue2: String = nullValue!! //Then we say that this wont be null (could throw nullpointExeption)
+val nonNullValue2: String = nullValue!! //We could say that this wont be null (could throw nullpointExeption)
 
 val nonNullValue3: String = nullValue ?: "other" //If it is null than take the other instead :D
 

@@ -1,4 +1,4 @@
-//Write a function that takes a list of Int and prints the values that am bigger that 25
+//Write a function that takes a list of Int and prints the values that are bigger that 25
 
 //Write a function that returns true if any number is below zero
 
