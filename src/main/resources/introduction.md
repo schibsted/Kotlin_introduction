@@ -29,4 +29,26 @@ Static type system with elements of gradual and flow typing
 Object-oriented language which also has a lot of functional programming
 
 
-# Who am you ;) 
+# Who are you? ;) 
+
+MPT, STP, Schibsted Tech Polska, Lendo AS, Schibsted Products and Technology, Blocket, E-Tech
+
+Software Engineer, Software Developer, Full stack developer, Engineering Manager, Data Scientist, backend Java developer
+
+differences between Kotlin and Java (strengths and weakness)
+
+learn some basic stuff (e.g. handling null values)
+
+some tips unavailable in official docs
+
+just to see how much better Kotlin is compared to Java
+
+To understand the syntax and the basics of Kotlin
+
+focus on functional programming
+
+Understand the basics ;-)
+
+jetpack compose
+
+Basics
