@@ -27,6 +27,3 @@ Null safe
 Static type system with elements of gradual and flow typing
 
 Object-oriented language which also has a lot of functional programming
-
-# Some features
-
