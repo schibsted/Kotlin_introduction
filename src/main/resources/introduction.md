@@ -35,19 +35,21 @@ MPT, STP, Schibsted Tech Polska, Lendo AS, Schibsted Products and Technology, Bl
 
 Software Engineer, Software Developer, Full stack developer, Engineering Manager, Data Scientist, backend Java developer
 
-differences between Kotlin and Java (strengths and weakness)
+# Why are you here? 
 
-learn some basic stuff (e.g. handling null values)
+To know differences between Kotlin and Java (strengths and weakness)
 
-some tips unavailable in official docs
+To learn some basic stuff (e.g. handling null values)
 
-just to see how much better Kotlin is compared to Java
+Curious about some tips unavailable in official docs
+
+Interested to see how much better Kotlin is compared to Java
 
 To understand the syntax and the basics of Kotlin
 
-focus on functional programming
+To focus on functional programming
 
-Understand the basics ;-)
+To understand the basics ;-)
 
 jetpack compose
 
