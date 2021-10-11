@@ -12,11 +12,33 @@ fun main(args:Array<String>){
     //The program
 }
 
-/**Similar to an Java program but with kotlin syntax **/
+/**Similar to a Java program but with kotlin syntax **/
 
-println("hello world")
 
 /**To print**/
 
+println("hello world")
+
 /** Kotlin can also be run as an script version**/
 /**Then the whole file will be treated as the main function**/
+
+/**
+ * Run a kotlin file (.kt) from terminal
+ *
+ * kotlinc IntroductionApplication.kt -include-runtime -d hello.jar
+ * and then
+ * java -jar hello.jar
+ *
+ * or just:
+ * kotlinc IntroductionApplication.kt -include-runtime -d hello.jar java -jar hello.jar
+ */
+
+/**
+ * Run a kotlin script file:
+ * kotlin -script file.kts
+ */
+
+/**
+ * Run online:
+ * https://play.kotlinlang.org
+ */
