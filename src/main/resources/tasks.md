@@ -7,7 +7,7 @@ Create and run a hello world application.
 
 ## task 2 - Create data class
 
-Create a class structure for a dictionary that, at a minimum, should contain dictionary, words and word language for each word
+Create a class structure for a dictionary that, at a minimum, should be able to store an arbitrary number of words along with the language of each word.
 
 - Documentation [3PlayWhitDataClasses.kts](3DataClasses/3PlayWhitDataClasses.kts)
 
@@ -40,7 +40,7 @@ as this (4, 5, 2, 4, 3, 5, 3) to this: (6, 7, 4, 6, 5, 7, 5)
 Write a function that takes a list of Int and prints the values that are bigger than 25
 
 ### task tre:
-Write a function that takes a list and count the number that is the same
+Write a function that takes a list of numbers and outputs ***how many*** numbers occurred more than once
 
 - Documentation [Streams.kts](5StreamsAndList/Streams.kts)
 
