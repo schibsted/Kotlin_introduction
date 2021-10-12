@@ -36,3 +36,18 @@ data class DogSchool(
     fun totalIncome(): Int = monthlyCost * dogs.size //nullsafe :D
 
 }
+
+/** Inheritance**/
+
+//Implicitly inherits from Any
+class Example
+
+//Class is open for inheritance
+open class Base
+
+class Derived : Base()
+
+/** whit args **/
+open class Base2(p: Int)
+
+class Derived2(p: Int) : Base2(p)
