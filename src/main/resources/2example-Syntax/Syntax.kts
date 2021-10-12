@@ -1,5 +1,6 @@
 /**First**/
 val hej = 2
+//(In java: final int hej = 2)
 
 /**can't do this**/
 hej = 5
@@ -32,7 +33,7 @@ val optionalString: String? = null
 /** Aim to only using non-null variables to avoid problems**/
 
 
-/**functions have different pars**/
+/**functions have different parts**/
 
 fun //Declare that it is a function
             () //the input to the function
@@ -44,14 +45,14 @@ fun //Declare that it is a function
     return "Something"
 }
 
-/** simplified functions, to make functions smaller and more cpmpact, there is a function to have a one liner**/
+/** simplified functions, to make functions smaller and more compact, there is a function to have a one liner**/
 
 //single-expression function
 
 fun oneLiner(number:Int) : String = number.toString() + " number of people"
 
 /**how to call function**/
-println(oneLiner(5))
+println( oneLiner(5) )
 
 /** Where you could have one line but more on those later **/
 
@@ -65,5 +66,6 @@ fun defualtValues(number: Int, whitDefualt:Int = 4)
 defualtValues(whitDefualt = 10, number = 3)
 /**Write them in any order and the default could be in the middle**/
 
+/** Destructuring declarations **/
 val person = Person("x", "y", "z")
 val (n, s, i) = person

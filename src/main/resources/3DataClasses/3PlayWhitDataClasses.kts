@@ -1,13 +1,13 @@
 package `3DataClasses`
 
 /** Small dog database **/
-val brommaPlans = DogSchool(Human("Katja"), "Doggis", 100, listOf())
+val dogSchool = DogSchool(Human("Katja"), "Doggis", 100, listOf())
 
 //but we want to know the total income for one DogSchool how?
-println(brommaPlans.totalIncome()) //But you could
-println(brommaPlans.name)
+println(dogSchool.totalIncome()) //But you could
+println(dogSchool.name)
 
-val (owner, name, montyCost, dogs) = brommaPlans //destructuring (componentX)
+val (owner, name, montyCost, dogs) = dogSchool //destructuring (componentX)
 
 val playWhitDataClasses = PlayWhitDataClasses("test")
 
