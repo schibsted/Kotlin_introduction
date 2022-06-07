@@ -7,7 +7,7 @@ val listOfNumbers = listOf(4, 5, 2, 4, 3, 5, 3)
 
 //Write a function that takes a list and count the number that is the same
 
-
+//More tasks https://kotlinlang.org/docs/advent-of-code.html
 
 /** Example further down**/
 
