@@ -31,26 +31,19 @@ Object-oriented language which also has a lot of functional programming
 
 # Who are you? ;) 
 
-MPT, STP, Schibsted Tech Polska, Lendo AS, Schibsted Products and Technology, Blocket, E-Tech
+Software Engineer, Developer, Senior Developer, Eng Manager/Developer, Fullstack developer
 
-Software Engineer, Software Developer, Full stack developer, Engineering Manager, Data Scientist, backend Java developer
+Schibsted Tech Polska, Schibsted, FINN
+
 
 # Why are you here? 
 
-To know differences between Kotlin and Java (strengths and weakness)
+No experience with Kotlin, hoping for some basics (:
 
-To learn some basic stuff (e.g. handling null values)
+To know the basics of Kotlin as we use it in my team.
 
-Curious about some tips unavailable in official docs
+Get a good understanding of the basics of Kotlin
 
-Interested to see how much better Kotlin is compared to Java
+Don't work that much in Kotlin, but would be nice to learn more tips and tricks.
 
-To understand the syntax and the basics of Kotlin
-
-To focus on functional programming
-
-To understand the basics ;-)
-
-jetpack compose
-
-Basics
+I have never seen Kotlin, so I hope to get a nice and fun introduction to it through hands on exercise with fellow Kotlin interested buddies. 
