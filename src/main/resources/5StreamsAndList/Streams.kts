@@ -8,7 +8,7 @@ val stringsWhitExplicitType = listOf<String>("One", "another", "something")
 val upperCase = strings.map { it.toUpperCase() }
 val upperCase = strings.map { it -> it.toUpperCase() }//Same it is just default name
 
-/** Usual operators for stream modify **/
+/** Usual operators for idioms (java streams) modify **/
 
 
 strings.find { it.length == 3 }
