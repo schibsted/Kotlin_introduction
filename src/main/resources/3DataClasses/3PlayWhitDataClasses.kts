@@ -37,6 +37,12 @@ data class DogSchool(
 
 }
 
+/** Data classes incoporates **/
+
+//equals()/hashCode() pair
+//toString() of the form "User(name=John, age=42)"
+//copy() function
+
 /** Inheritance**/
 
 //Implicitly inherits from Any
