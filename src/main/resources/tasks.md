@@ -48,4 +48,4 @@ Example implementation could found in the bottom of [this file](5StreamsAndList/
 
 ## Extra 6
 
-Se file [this](6Extra/Task.kts)
+Se [this](6Extra/Task.kts) file
