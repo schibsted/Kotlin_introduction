@@ -3,7 +3,7 @@
 fun main(){
     //the program
 }
-/** This is the most usual way to start and to run an program
+/** This is the most usual way to start and to run a program
 note that it is not inside a class, but outside**/
 
 /** parameter if you want to input things like running it in the terminal **/
@@ -41,4 +41,11 @@ println("hello world")
 /**
  * Run online:
  * https://play.kotlinlang.org
+ */
+
+
+/**
+ * IDE
+ *
+ * I would recommend **intellij** as an IDE it is even created by the creators of kotlin (JetBrains).
  */
